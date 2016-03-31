@@ -4,3 +4,12 @@
 - Nokia 5110 LCD's display with MSP430
   http://www.msp430launchpad.com/2012/08/using-nokia-lcd-library.html
   http://forum.43oh.com/topic/1312-nokia-5110-display/
+
+Uart;
+http://www.simplyembedded.org/tutorials/msp430-uart/
+
+lm35
+https://learningmsp430.wordpress.com/2014/01/01/thermometer-using-lm35/
+
+printf over UART:
+http://www.msp430launchpad.com/2012/06/using-printf.html
